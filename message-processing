@@ -1,3 +1,5 @@
-@Compont
+@Component
 @Slf4j
-public class 
+public class IntegralChangeProcessor extends BaseMessageProcessor{
+
+}
